@@ -8,12 +8,12 @@ const CONFIG = {
     email: "edward@namewastaken.com.au",
     linkedin: "",
     github: "",
-    instagram: "",
+    instagram: "https://www.instagram.com/esatk.public/",
   },
   projects: [
     {
-      name: ``,
-      href: "",
+      name: `Photography`,
+      href: "https://www.instagram.com/esatk.public/",
     },
   ],
   // blog setting (required)
